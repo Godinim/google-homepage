@@ -1,0 +1,139 @@
+#google-image {
+	display: block;	
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: -30px;
+	height:500px 
+	width:700px
+	}	
+
+#box {
+	display:block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	}
+
+#typingbox {
+	position:relative;	
+	display:block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: -100px;
+	height: 40px;
+	}
+
+#microphone {
+	position:relative;
+	display:block;
+	margin-top: -45px;
+	margin-left: 67%;
+	height:35px 
+	width:35px
+	}
+
+#searchbar {
+	border-color:black;
+	border-width:2px;
+	height:100px;
+	}
+	
+.searchandlucky {
+	position:relative;
+	margin-top: 60px;
+	text-align: center;
+	font-weight: bold;
+	font-family: arial;
+	}
+
+#gs {
+	display: inline-block;
+	margin-right: 2%;
+	color: grey;
+	background-color: #F8F8F8;
+	height: 40px;
+	width: 200px;
+	}
+
+#ifl {
+	display: inline-block;
+	margin-left: 2%;
+	color: grey;
+	background-color: #F8F8F8;
+	height: 40px;
+	width: 200px;
+	}
+
+.navigationbar {
+	margin-left: 83%;
+	margin-right: auto;
+	margin-top: -500px;
+	font-family: arial;
+	}
+
+#gmail {
+	display: inline-block;
+	margin-right: 13px;
+	}
+
+#images {
+	display: inline-block;
+	margin-right: 13px;
+	}
+
+#icon {
+	display: inline-block;
+	margin-right: 13px;
+	margin-top: 30px;
+	}
+
+
+#signin {
+	display: inline-block;
+	text-align: center;
+	color:white;	
+	margin-right: 13px;
+	background-color: #00A2FF;
+	height: 50px;
+	width: 80px;
+	}
+
+.bottomnav {
+	font-family: arial;	
+	margin-top: 39%;
+	background-color: #F8F8F8;
+	border: 1px solid #C3C3C3;	
+	}
+
+#advertising {
+	display: inline-block;
+	}
+
+#business {
+	display: inline-block;
+	margin-left:13px;
+	}
+
+#about {
+	display: inline-block;
+	margin-left:13px;
+	}
+
+#privacy {
+	display: inline-block;
+	margin-left: 75%;	
+	}
+
+#terms {
+	display: inline-block;
+	margin-left:13px;
+	}
+
+#settings {
+	display: inline-block;
+	margin-left:13px;
+	}
+
+#australia {
+	}
+		
