@@ -1,7 +1,7 @@
 # google-homepage
 Part of "The Odin Project" https://www.theodinproject.com/. 
 The first project for understanding the fundamentals of HTML and CSS. 
-Please check README to show project analysis.
+Please check README to show post project analysis.
 
 Although it looks similar to the actual google homepage, there are few problems in terms of functionality. Due to the lack of knowledge before beginning the project, I further studied on how I am able to improve the code such that the functionality would work similarly to the actual homepage. This list includes:
 
